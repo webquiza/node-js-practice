@@ -1,4 +1,4 @@
-# _This program uses Node.js to run a small application on your terminal whichs connect to [Treehouse's](https://teamtreehouse.com/) API in order to see a user's course badge count and JavaScript points. 
+# _This program uses Node.js to run a small application on your terminal whichs connect to [Treehouse's](https://teamtreehouse.com/) API in order to see a user's course badge count and JavaScript points._ 
 
 ## Setup Requirements
 
